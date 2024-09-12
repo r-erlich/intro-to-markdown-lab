@@ -28,7 +28,7 @@ console.log("Hello, " + name + "!");
 
 > Tip: Functions often perform actionsk, so naming with a verb can make it clear what the function does. Examples include `fetchData( )`, `calculateArea( )`, or `printReport( )`.
 
-### 2. Calling a function
+## 2. Calling a function
 
 To execute the function, you _call_ or _invoke_ it by using its name followed by parentheses.
 
@@ -38,7 +38,7 @@ To execute the function, you _call_ or _invoke_ it by using its name followed by
 greet('Alice'); // Outputs: Hello, Alice!
 ```
 
-#### 3. Return values
+## 3. Return values
 
 Functions can process data input and output a value using the _return_ keyword.
 
